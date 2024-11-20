@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="rose">#facedb</color>
+    <color name="blue">#a6daff</color>
+    <color name="green">#cef2ce</color>
+    <color name="red">#fca5ae</color>
+    <color name="orange">#feda9c</color>
+    <color name="grey">#dddddd</color>
+    <color name="purple">#eedaff</color>
+    <color name="yellow">#fffbb0</color>
+
+    <color name="background_color">#FF202020</color>
+    <color name="ToolBar">#EB2C2A2A</color>
+    <color name="light_gray">#A9A9A9</color>
+    
+    <color name="lines">#c5c5c5</color>
+    <color name="main">#88c057</color>
+    <color name="backgrounds">#e5e5e5</color>
+</resources>
